@@ -20,7 +20,7 @@ using namespace std;
 class Persona
 {
 //Declaramos atributos privados de la clase
-  private:
+  protected:
     string name, user, password;
     int long phone;
 
