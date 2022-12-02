@@ -22,7 +22,7 @@ using namespace std;
 class Paquetes{
 
 //Declaramos atributos privados de la clase
-  private:
+  protected:
 
     string date, paises, name;
 
